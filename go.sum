@@ -6,8 +6,6 @@ github.com/SanGameDev/gocourse_domain v0.0.1 h1:KNcfm8G7mD1VFQG3lYFUbe0+7wMtYz7q
 github.com/SanGameDev/gocourse_domain v0.0.1/go.mod h1:OLpf/otMsJXjS3C+fGSnaxySnxjmMFcvCXlFgBCP/kA=
 github.com/SanGameDev/gocourse_meta v0.0.2 h1:uSu+mYrdpmgC3/tOKai7szQZCxVAFCWOkWHOaxlZ038=
 github.com/SanGameDev/gocourse_meta v0.0.2/go.mod h1:zIVL7qvznuuGk8RSndKvTnO1pcJmtrB5F8OwcWPyOfY=
-github.com/SanGameDev/gocourse_user v0.0.0-20241112064253-aa5517ec0bf1 h1:7qqRk0CeHv1KDckGpQ+yvzsZT9zfWy5djQTwLSmZVzg=
-github.com/SanGameDev/gocourse_user v0.0.0-20241112064253-aa5517ec0bf1/go.mod h1:r8r26Ka3YZwLgeeyWJjjXWEg/sECPxYttWwMws1Io1E=
 github.com/go-kit/kit v0.13.0 h1:OoneCcHKHQ03LfBpoQCUfCluwd2Vt3ohz+kvbJneZAU=
 github.com/go-kit/kit v0.13.0/go.mod h1:phqEHMMUbyrCFCTgH48JueqrM3md2HcAZ8N3XE4FKDg=
 github.com/go-kit/log v0.2.0 h1:7i2K3eKTos3Vc0enKCfnVcgHh2olr/MyfboYq7cAcFw=

@@ -6,7 +6,6 @@ require (
 	github.com/SanGameDev/go_lib_response v0.0.1
 	github.com/SanGameDev/gocourse_domain v0.0.1
 	github.com/SanGameDev/gocourse_meta v0.0.2
-	github.com/SanGameDev/gocourse_user v0.0.0-20241112064253-aa5517ec0bf1
 	github.com/go-kit/kit v0.13.0
 	github.com/gorilla/mux v1.8.1
 	github.com/joho/godotenv v1.5.1
